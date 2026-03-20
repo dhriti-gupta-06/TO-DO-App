@@ -58,7 +58,9 @@ TO-DO-App/
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png)
+![Main UI](Screenshot 2026-03-20 184439.png)
+![Working](Screenshot 2026-03-20 184453.png)
+![Filters](Screenshot 2026-03-20 184507.png)
 
 ---
 
