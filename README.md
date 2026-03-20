@@ -31,8 +31,11 @@ This app allows users to manage tasks efficiently with features like filtering, 
 
 ## 📂 Project Structure
 TO-DO-App/
+
 │── index.html
+
 │── style.css
+
 │── script.js
 
 
@@ -56,10 +59,13 @@ TO-DO-App/
 
 ---
 
-## 📸 Screenshot
-![Main UI](Screenshot 2026-03-20 184439.png)
-![Working](Screenshot 2026-03-20 184453.png)
-![Filters](Screenshot 2026-03-20 184507.png)
+## 📸 Screenshots
+
+![Main UI](screenshot1.png)
+
+![Working](screenshot2.png)
+
+![Filters](screenshot3.png)
 
 ---
 
